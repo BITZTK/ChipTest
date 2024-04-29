@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "memory": "cpp"
+    },
+    "python.analysis.extraPaths": [
+        "./cocotb"
+    ]
+}

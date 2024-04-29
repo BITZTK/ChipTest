@@ -1,0 +1,2 @@
+sid regFile
+bcid 0 0 WIDTH,4 CALL_ARG_VAL,2,0 CALL_ARG_VAL,3,0 ADD RET

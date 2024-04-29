@@ -1,0 +1,146 @@
+0 
+45
++acc+1
++cli+4
++define+COCOTB_SIM=1
++itf+/nfs/tools/synopsys/vcs/Q-2020.03-SP2/linux64/lib/vcsdp_lite.tab
++memcbk
++vcsd1
++vpi
++vpi
++vpi
+-Mamsrun=
+-Masflags=
+-Mcc=gcc
+-Mcfl= -pipe -fPIC -O -I/nfs/tools/synopsys/vcs/Q-2020.03-SP2/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mexternalobj=
+-Mldflags=-L/usr/lib/x86_64-linux-gnu -L/lib/x86_64-linux-gnu -Wl,--no-as-needed -rdynamic
+-Mobjects= /nfs/tools/synopsys/vcs/Q-2020.03-SP2/linux64/lib/libvirsim.so /nfs/tools/synopsys/vcs/Q-2020.03-SP2/linux64/lib/liberrorinf.so /nfs/tools/synopsys/vcs/Q-2020.03-SP2/linux64/lib/libsnpsmalloc.so /nfs/tools/synopsys/vcs/Q-2020.03-SP2/linux64/lib/libvfs.so
+-Mout=simv
+-Msaverestoreobj=/nfs/tools/synopsys/vcs/Q-2020.03-SP2/linux64/lib/vcs_save_restore_new.o
+-Msyslibs=/nfs/tools/synopsys/verdi/S-2021.09-SP1/share/PLI/VCS/LINUX64/pli.a -ldl -lm
+-Mvcsaceobjs=
+-Mxcflags= -pipe -fPIC -I/nfs/tools/synopsys/vcs/Q-2020.03-SP2/include
+-Mxllcflags=
+-P
+-P
+-Xcbug=0x1
+-debug=3
+-debug_access+all
+-fsdb
+-full64
+-gen_obj
+-load
+-picarchive
+-sverilog
+-timescale=1ns/1ps
+-top
+/nfs/tools/synopsys/vcs/Q-2020.03-SP2/linux64/bin/vcs1
+Passthrough
+pli.tab
+/nfs/home/zhaotiankun/.local/lib/python3.11/site-packages/cocotb/libs/libcocotbvpi_vcs.so
+/nfs/tools/synopsys/verdi/S-2021.09-SP1/share/PLI/VCS/LINUX64/verdi.tab
+/nfs/home/zhaotiankun/workspace/ChipTest/dut/Passthrough.v
+85
+_CE_M=
+_CE_CONDA=
+XDG_SESSION_TYPE=tty
+XDG_SESSION_ID=70675
+XDG_SESSION_CLASS=user
+XDG_RUNTIME_DIR=/run/user/1467000108
+XDG_DATA_DIRS=/usr/local/share:/usr/share:/var/lib/snapd/desktop
+VSCODE_IPC_HOOK_CLI=/run/user/1467000108/vscode-ipc-8f05a0a9-5d33-4548-a2d8-37000947c8e0.sock
+VSCODE_GIT_IPC_HANDLE=/run/user/1467000108/vscode-git-47cacfed62.sock
+VSCODE_GIT_ASKPASS_NODE=/nfs/home/zhaotiankun/.vscode-server/cli/servers/Stable-e170252f762678dec6ca2cc69aba1570769a5d39/server/node
+VSCODE_GIT_ASKPASS_MAIN=/nfs/home/zhaotiankun/.vscode-server/cli/servers/Stable-e170252f762678dec6ca2cc69aba1570769a5d39/server/extensions/git/dist/askpass-main.js
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+VMR_MODE_FLAG=64
+VERILUA_HOME=/nfs/home/zhaotiankun/workplace/verilua
+VERDI_TOOL=/nfs/tools/synopsys/verdi/R-2020.12-SP1/bin/verdi
+VERDI_HOME=/nfs/tools/synopsys/verdi/S-2021.09-SP1
+VCS_TOOL=/nfs/tools/synopsys/vcs/Q-2020.03-SP2/bin/vcs
+VCS_MX_HOME_INTERNAL=1
+VCS_MODE_FLAG=64
+VCS_HOME=/nfs/tools/synopsys/vcs/Q-2020.03-SP2
+VCS_DEPTH=0
+VCS_BIN_DIR=/nfs/tools/synopsys/vcs/Q-2020.03-SP2/bin
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH=linux64
+UNAME=/bin/uname
+TOPLEVEL=Passthrough
+TOOL_HOME=/nfs/tools/synopsys/vcs/Q-2020.03-SP2/linux64
+TERM_PROGRAM_VERSION=1.88.1
+TERM_PROGRAM=vscode
+SSL_CERT_FILE=/usr/lib/ssl/certs/ca-certificates.crt
+SSL_CERT_DIR=/usr/lib/ssl/certs
+SSH_CONNECTION=172.58.2.143 49249 172.60.20.1 22
+SSH_CLIENT=172.58.2.143 49249 22
+SIM_BUILD=sim_build
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+RISCV=/nfs/share/opt/riscv
+PYTHONHOME=/nfs/share/opt/Anaconda3
+OVA_UUM=0
+OS=Linux
+NOVAS_PLI=/nfs/tools/synopsys/verdi/R-2020.12-SP1/share/PLI/VCS/linux64
+NOVAS_HOME=/nfs/tools/synopsys/verdi/S-2021.09-SP1
+MOTD_SHOWN=pam
+MODULES_CMD=/usr/lib/x86_64-linux-gnu/modulecmd.tcl
+MODULESHOME=/usr/share/modules
+MODULEPATH_modshare=/etc/environment-modules/modules:1:/usr/share/modules/$MODULE_VERSION/modulefiles:1:/usr/share/modules/modulefiles:1:/usr/share/modules/versions:1
+MODULEPATH=/etc/environment-modules/modules:/usr/share/modules/versions:/usr/share/modules/$MODULE_VERSION/modulefiles:/usr/share/modules/modulefiles
+MFLAGS=-w
+MAKE_TERMOUT=/dev/pts/33
+MAKE_TERMERR=/dev/pts/33
+MAKELEVEL=2
+MAKEFLAGS=w
+LOADEDMODULES=
+LIBRARY_PATH=/usr/lib/x86_64-linux-gnu
+LIBPYTHON_LOC=/nfs/share/opt/Anaconda3/lib/libpython3.11.so.1.0
+LESSOPEN=| /usr/bin/lesspipe %s
+LESSCLOSE=/usr/bin/lesspipe %s %s
+LC_TIME=zh_CN.UTF-8
+LC_TELEPHONE=zh_CN.UTF-8
+LC_PAPER=zh_CN.UTF-8
+LC_NUMERIC=zh_CN.UTF-8
+LC_NAME=zh_CN.UTF-8
+LC_MONETARY=zh_CN.UTF-8
+LC_MEASUREMENT=zh_CN.UTF-8
+LC_IDENTIFICATION=zh_CN.UTF-8
+LC_ALL=C
+LC_ADDRESS=zh_CN.UTF-8
+KRB5CCNAME=KEYRING:persistent:1467000108
+JAVA_HOME=/nfs/share/opt/graalvm-ce-java11-22.3.2
+GIT_ASKPASS=/nfs/home/zhaotiankun/.vscode-server/cli/servers/Stable-e170252f762678dec6ca2cc69aba1570769a5d39/server/extensions/git/dist/askpass.sh
+ENV=/usr/share/modules/init/profile.sh
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1467000108/bus
+CPATH=/usr/include/x86_64-linux-gnu
+CONDA_SHLVL=1
+CONDA_PYTHON_EXE=/nfs/share/opt/Anaconda3/bin/python
+CONDA_PROMPT_MODIFIER=(base) 
+CONDA_PREFIX=/nfs/share/opt/Anaconda3
+CONDA_EXE=/nfs/share/opt/Anaconda3/bin/conda
+CONDA_DEFAULT_ENV=base
+COLORTERM=truecolor
+COCOTB_RESULTS_FILE=results.xml
+BASH_FUNC_switchml%%=() {  typeset swfound=1;_ if [ "${MODULES_USE_COMPAT_VERSION:-0}" = '1' ]; then_ typeset swname='main';_ if [ -e /usr/lib/x86_64-linux-gnu/modulecmd.tcl ]; then_ typeset swfound=0;_ unset MODULES_USE_COMPAT_VERSION;_ fi;_ else_ typeset swname='compatibility';_ if [ -e /usr/lib/x86_64-linux-gnu/modulecmd-compat ]; then_ typeset swfound=0;_ MODULES_USE_COMPAT_VERSION=1;_ export MODULES_USE_COMPAT_VERSION;_ fi;_ fi;_ if [ $swfound -eq 0 ]; then_ echo "Switching to Modules $swname version";_ source /usr/share/modules/init/bash;_ else_ echo "Cannot switch to Modules $swname version, command not found";_ return 1;_ fi_}
+BASH_FUNC_module%%=() {  _module_raw "$@" 2>&1_}
+BASH_FUNC__module_raw%%=() {  unset _mlshdbg;_ if [ "${MODULES_SILENT_SHELL_DEBUG:-0}" = '1' ]; then_ case "$-" in _ *v*x*)_ set +vx;_ _mlshdbg='vx'_ ;;_ *v*)_ set +v;_ _mlshdbg='v'_ ;;_ *x*)_ set +x;_ _mlshdbg='x'_ ;;_ *)_ _mlshdbg=''_ ;;_ esac;_ fi;_ unset _mlre _mlIFS;_ if [ -n "${IFS+x}" ]; then_ _mlIFS=$IFS;_ fi;_ IFS=' ';_ for _mlv in ${MODULES_RUN_QUARANTINE:-};_ do_ if [ "${_mlv}" = "${_mlv##*[!A-Za-z0-9_]}" -a "${_mlv}" = "${_mlv#[0-9]}" ]; then_ if [ -n "`eval 'echo ${'$_mlv'+x}'`" ]; then_ _mlre="${_mlre:-}${_mlv}_modquar='`eval 'echo ${'$_mlv'}'`' ";_ fi;_ _mlrv="MODULES_RUNENV_${_mlv}";_ _mlre="${_mlre:-}${_mlv}='`eval 'echo ${'$_mlrv':-}'`' ";_ fi;_ done;_ if [ -n "${_mlre:-}" ]; then_ eval `eval ${_mlre}/usr/bin/tclsh8.6 /usr/lib/x86_64-linux-gnu/modulecmd.tcl bash '"$@"'`;_ else_ eval `/usr/bin/tclsh8.6 /usr/lib/x86_64-linux-gnu/modulecmd.tcl bash "$@"`;_ fi;_ _mlstatus=$?;_ if [ -n "${_mlIFS+x}" ]; then_ IFS=$_mlIFS;_ else_ unset IFS;_ fi;_ unset _mlre _mlv _mlrv _mlIFS;_ if [ -n "${_mlshdbg:-}" ]; then_ set -$_mlshdbg;_ fi;_ unset _mlshdbg;_ return $_mlstatus_}
+BASH_ENV=/usr/share/modules/init/bash
+0
+4
+1714285736 /nfs/home/zhaotiankun/workspace/ChipTest/dut/Passthrough.v
+1638190450 /nfs/tools/synopsys/verdi/S-2021.09-SP1/share/PLI/VCS/LINUX64/verdi.tab
+1599275447 /nfs/tools/synopsys/vcs/Q-2020.03-SP2/linux64/lib/vcsdp_lite.tab
+1713952616 pli.tab
+4
+1599276162 /nfs/tools/synopsys/vcs/Q-2020.03-SP2/linux64/lib/libvirsim.so
+1599275924 /nfs/tools/synopsys/vcs/Q-2020.03-SP2/linux64/lib/liberrorinf.so
+1599275886 /nfs/tools/synopsys/vcs/Q-2020.03-SP2/linux64/lib/libsnpsmalloc.so
+1599275921 /nfs/tools/synopsys/vcs/Q-2020.03-SP2/linux64/lib/libvfs.so
+1714285751 simv.daidir
+-1 partitionlib

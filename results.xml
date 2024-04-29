@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1714286171" />
+    <testcase name="First_test" classname="test_First" file="/nfs/home/zhaotiankun/workspace/ChipTest/test_First.py" lineno="7" time="0.07027912139892578" sim_time_ns="75.001" ratio_time="1067.1875018794187" />
+  </testsuite>
+</testsuites>
